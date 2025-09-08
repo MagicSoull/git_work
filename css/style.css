@@ -5,3 +5,9 @@ p{
     color: black;
     font-size: 20px;
 }
+.cat{
+    box-shadow: red 10px 10px;
+    display: flex;
+    width: 200px;
+    height: 200px;
+}
