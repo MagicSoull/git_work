@@ -11,3 +11,7 @@ p{
     width: 200px;
     height: 200px;
 }
+hr{
+    width: 50%;
+    color: red;
+}
