@@ -11,3 +11,11 @@ p{
     width: 200px;
     height: 200px;
 }
+hr{
+<<<<<<< HEAD
+    background: blue;
+=======
+    width: 50%;
+    color: red;
+>>>>>>> second
+}
